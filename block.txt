@@ -17,3 +17,4 @@
 ||version.common.freefiremobile.com^
 ||garena.com^
 ||garenanow.com^
+||graph.facebook.com^
