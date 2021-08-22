@@ -15,3 +15,4 @@
 ||freefiremobile.com^
 ||login.common.freefiremobile.com^
 ||version.common.freefiremobile.com^
+||garena.com^
