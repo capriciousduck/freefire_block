@@ -11,3 +11,7 @@
 ||login.common.freefiremobile.com
 ||connect.garenanow.com
 ||dl.ctlin.freefiremobile.com
+||freefiremobile-a.akamaihd.net
+||freefiremobile.com
+||login.common.freefiremobile.com
+||version.common.freefiremobile.com
