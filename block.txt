@@ -16,3 +16,4 @@
 ||login.common.freefiremobile.com^
 ||version.common.freefiremobile.com^
 ||garena.com^
+||garenanow.com^
