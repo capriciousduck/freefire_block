@@ -1,20 +1,20 @@
 # Following URL's are blocked to block freefire
 
-||dl.castle.freefiremobile.com^
-||freefiremobile-a.akamaihd.net^
-||version.common.freefiremobile.com^
-||client.ind.freefiremobile.com^
-||ind.event.freefiremobile.com^
-||csoversea.castle.freefiremobile.com^
-||dl.dir.freefiremobile.com^
-||ind.event.freefiremobile.com^
-||login.common.freefiremobile.com^
-||connect.garenanow.com^
-||dl.ctlin.freefiremobile.com^
-||freefiremobile-a.akamaihd.net^
-||freefiremobile.com^
-||login.common.freefiremobile.com^
-||version.common.freefiremobile.com^
-||garena.com^
-||garenanow.com^
-||graph.facebook.com^
+127.0.0.1 dl.castle.freefiremobile.com
+127.0.0.1 freefiremobile-a.akamaihd.net
+127.0.0.1 version.common.freefiremobile.com
+127.0.0.1 client.ind.freefiremobile.com
+127.0.0.1 ind.event.freefiremobile.com
+127.0.0.1 csoversea.castle.freefiremobile.com
+127.0.0.1 dl.dir.freefiremobile.com
+127.0.0.1 ind.event.freefiremobile.com
+127.0.0.1 login.common.freefiremobile.com
+127.0.0.1 connect.garenanow.com
+127.0.0.1 dl.ctlin.freefiremobile.com
+127.0.0.1 freefiremobile-a.akamaihd.net
+127.0.0.1 freefiremobile.com
+127.0.0.1 login.common.freefiremobile.com
+127.0.0.1 version.common.freefiremobile.com
+127.0.0.1 garena.com
+127.0.0.1 garenanow.com
+127.0.0.1 graph.facebook.com
