@@ -1,0 +1,13 @@
+# Following URL's are blocked to block freefire
+
+||dl.castle.freefiremobile.com^
+||freefiremobile-a.akamaihd.net^
+||version.common.freefiremobile.com^
+||client.ind.freefiremobile.com
+||ind.event.freefiremobile.com
+||csoversea.castle.freefiremobile.com
+||dl.dir.freefiremobile.com
+||ind.event.freefiremobile.com
+||login.common.freefiremobile.com
+||connect.garenanow.com
+||dl.ctlin.freefiremobile.com
